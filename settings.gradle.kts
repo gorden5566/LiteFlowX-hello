@@ -1,1 +1,1 @@
-rootProject.name = "LiteFlowX"
+rootProject.name = "LiteFlowX-hello"

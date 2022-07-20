@@ -1,6 +1,6 @@
 <idea-plugin require-restart="false" allow-bundled-update="true" url="https://gitee.com/liupeiqiang/LiteFlowX">
-    <id>top.xystudio.plugin.idea.LiteFlowX</id>
-    <name>LiteFlowX</name>
+    <id>top.xystudio.plugin.idea.LiteFlowX-hello</id>
+    <name>LiteFlowX-hello</name>
     <vendor email="237972113@qq.com" url="https://gitee.com/liupeiqiang/LiteFlowX">Coder-XiaoYi</vendor>
 
     <depends>com.intellij.modules.platform</depends>
