@@ -4,6 +4,9 @@
     <vendor email="237972113@qq.com" url="https://gitee.com/liupeiqiang/LiteFlowX">Coder-XiaoYi</vendor>
 
     <change-notes><![CDATA[
+        <ul>0.2.2-241
+            <li>新增兼容 IntelliJ IDEA 241.x.x 版本，例如 IntelliJ IDEA 20<b>24.1</li>
+        </ul>
         <ul>0.2.2-233
             <li>新增兼容 IntelliJ IDEA 233.x.x 版本，例如 IntelliJ IDEA 20<b>23.3</b>.2</li>
         </ul>
