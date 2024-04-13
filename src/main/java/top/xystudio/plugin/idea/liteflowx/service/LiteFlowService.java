@@ -168,7 +168,7 @@ public class LiteFlowService implements Serializable {
      * @return
      */
     public boolean isLiteFlowSlot(@NotNull PsiClass psiClass){
-        while (psiClass.getSuperClassType() != null &&
+        while (psiClass != null && psiClass.getSuperClassType() != null &&
                 !psiClass.getSuperClassType().equals(Clazz.JavaObject)){
             psiClass = psiClass.getSuperClass();
         }
